@@ -75,17 +75,17 @@ function checkLeapYear(){
     document.getElementById("primeResult").innerHTML = result;
  }
 
- function checkPrimeRecarsive(n){
-     if(n==0){
-        return 0  
-     }else if(n==1){
-         return 1
-     }else{
-         if(){
-             return msg
-         }
-     }
- }
+//  function checkPrimeRecarsive(n){
+//      if(n==0){
+//         return 0  
+//      }else if(n==1){
+//          return 1
+//      }else{
+//          if(){
+//              return msg
+//          }
+//      }
+//  }
 
  function createFibonacciLoop(n){
      let msg
